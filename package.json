@@ -2,7 +2,7 @@
   "name": "relations-unjs",
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@8.14.1",
+  "packageManager": "pnpm@8.15.4",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
