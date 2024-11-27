@@ -10,7 +10,7 @@ const props = defineProps<{
 }>()
 
 const emits = defineEmits<{
-  'selectNode': [InternalPackage]
+  selectNode: [InternalPackage]
 }>()
 
 const colorMode = useColorMode()
